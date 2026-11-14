@@ -1,0 +1,25 @@
+package com.dcl;
+
+public class Car {
+
+
+	Engine engine;
+	
+	public Car() {
+		
+	}
+	
+	public Car(Engine engine) {
+		this.engine=engine;
+	}
+	
+	public void setEngine(Engine engine) {
+		this.engine=engine;
+		System.out.println("setter() called");
+	}
+	
+	void move() {
+		engine.start();
+		System.out.println("Car is moving");
+	}
+}

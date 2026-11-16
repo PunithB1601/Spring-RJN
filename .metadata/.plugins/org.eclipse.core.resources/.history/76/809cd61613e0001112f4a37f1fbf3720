@@ -1,0 +1,12 @@
+package com.dcl;
+
+//Target class
+public class BillGenerator {
+
+	private Payment payment;
+	
+	
+	void generateBill() {
+		payment.doPayment();
+	}
+}

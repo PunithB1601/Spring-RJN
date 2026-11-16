@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.dcl.Car"/>
+    <fullyQualifiedTypeName name="com.dcl.Engine"/>
+    <fullyQualifiedTypeName name="com.dcl.Payment"/>
+    <fullyQualifiedTypeName name="com.dcl.CreditCard"/>
+    <fullyQualifiedTypeName name="com.dcl.DebitCard"/>
+    <fullyQualifiedTypeName name="com.dcl.BillGenerator"/>
+    <fullyQualifiedTypeName name="com.dcl.UPI"/>
+</qualifiedTypeNameHistroy>

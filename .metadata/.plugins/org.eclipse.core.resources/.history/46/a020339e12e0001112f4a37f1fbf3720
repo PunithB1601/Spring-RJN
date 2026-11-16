@@ -1,0 +1,11 @@
+package com.dcl;
+
+public class CreditCard implements Payment {
+
+	@Override
+	public void doPayment() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

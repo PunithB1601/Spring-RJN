@@ -1,0 +1,18 @@
+package com.dcl;
+
+public class Test {
+
+	public static void main(String[] args) {
+	
+		/**
+		//CONSTRUCTOR-INJECTION
+		Payment p=new CreditCard();
+		BillGenerator bg=new BillGenerator(p);
+		bg.generateBill();
+		**/
+		
+		//SETTER INJECTION
+		BillGenerator bg=new BillGenerator();
+	}
+
+}

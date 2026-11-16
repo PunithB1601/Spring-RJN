@@ -1,0 +1,110 @@
+0:08:48 Tab2 StartNav72 #typed
+0:08:48 Tab2 FinishNav72
+0:08:48 Tab2 PageLoad
+0:08:58 Microsoft.BrowserList.AddBrowser
+0:08:58 Browser8 Insert active Tab8 at 0
+0:08:58 Tab8 StartNav73 #auto_toplevel
+0:08:58 Tab8 StartNav74 #typed
+0:08:58 Tab8 FinishNav73
+0:08:58 Tab8 PageLoad
+0:08:58 Tab8 FinishNav74
+0:08:58 Tab8 PageLoad
+0:09:02 Tab8 StartNav75 #typed
+0:09:02 Tab8 FinishNav75
+0:09:02 Tab8 PageLoad
+0:09:06 Tab8 StartNav76 #typed
+0:09:06 Tab8 FinishNav76
+0:09:06 Tab8 PageLoad
+0:09:45 Tab2 StartNav77 #typed
+0:09:45 Tab2 FinishNav77
+0:09:45 Tab2 PageLoad
+0:09:46 Tab2 StartNav78 #typed
+0:09:46 Tab2 FinishNav78
+0:09:46 Tab2 PageLoad
+0:09:48 Tab2 StartNav79 #typed
+0:09:48 Tab2 FinishNav79
+0:09:48 Tab2 PageLoad
+0:09:50 Tab2 StartNav80 #typed
+0:09:50 Tab2 FinishNav80
+0:09:50 Tab2 PageLoad
+0:10:17 Tab2 StartNav81 #typed
+0:10:17 Tab2 FinishNav81
+0:10:17 Tab2 PageLoad
+0:10:18 Tab2 StartNav82 #typed
+0:10:18 Tab2 FinishNav82
+0:10:18 Tab2 PageLoad
+0:10:18 Tab2 StartNav83 #typed
+0:10:18 Tab2 FinishNav83
+0:10:18 Tab2 PageLoad
+0:10:22 Tab8 StartNav84 #typed
+0:10:22 Tab8 FinishNav84
+0:10:22 Tab8 PageLoad
+0:10:44 Tab2 StartNav85 #typed
+0:10:44 Tab2 FinishNav85
+0:10:44 Tab2 PageLoad
+0:10:46 Microsoft.Shutdown.OnWindowClosing
+0:10:46 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+0:10:46 Microsoft.UnloadController.HasCompletedUnloadProcessing_False
+0:10:46 Microsoft.Shutdown.TabStripModel.CloseAllTabs
+0:10:46 Microsoft.Shutdown.TabStripModel.CloseTabs
+0:10:46 Microsoft.Shutdown.TabStripModel.CloseTabs_EdgeBeforeClosingAllTabs
+0:10:46 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl
+0:10:46 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_TabClosable
+0:10:46 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_ClosingAll
+0:10:46 Microsoft.Shutdown.TabStripModel.CloseWebContentses
+0:10:46 Microsoft.Shutdown.TabStripModel.CloseWebContentses_FastShutdown
+0:10:46 Tab2 RenderProcessGone
+0:10:46 Microsoft.UnloadController.ClearUnloadState
+0:10:46 Microsoft.Shutdown.TabStripModel.RunUnloadListenerBeforeClosing_false
+0:10:46 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_ClosedAll
+0:10:46 Microsoft.Shutdown.TabStripModel.SendDetachWebContentsNotifications
+0:10:46 Microsoft.UnloadController.ClearUnloadState
+0:10:46 Browser2 Close Tab2 at 0
+0:10:46 Microsoft.Shutdown.OnWindowClosing
+0:10:46 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+0:10:46 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+0:10:46 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
+0:10:46 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
+0:10:46 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:10:46 Widget Closed: WebView2MinimalFrame
+0:10:46 Microsoft.UnloadController.TabStripEmpty
+0:10:46 Widget Closed: WebView2MinimalFrame
+0:10:46 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+0:10:46 Microsoft.Shutdown.OnWindowClosing
+0:10:46 Microsoft.Shutdown.OnWindowClosing_DeleteScheduled
+0:10:46 Microsoft.Browser_Removed
+0:10:46 Widget Closed: WebView2MinimalFrame
+0:10:51 Tab8 StartNav86 #typed
+0:10:51 Tab8 FinishNav86
+0:10:51 Tab8 PageLoad
+0:10:54 Tab8 StartNav87 #typed
+0:10:54 Tab8 FinishNav87
+0:10:54 Tab8 PageLoad
+0:11:43 Tab8 StartNav88 #typed
+0:11:43 Tab8 FinishNav88
+0:11:43 Tab8 PageLoad
+0:11:45 Tab8 StartNav89 #typed
+0:11:45 Tab8 FinishNav89
+0:11:45 Tab8 PageLoad
+0:11:48 Tab8 StartNav90 #typed
+0:11:48 Tab8 FinishNav90
+0:11:48 Tab8 PageLoad
+0:11:59 Tab8 StartNav91 #typed
+0:11:59 Tab8 FinishNav91
+0:11:59 Tab8 PageLoad
+0:12:23 Tab8 StartNav92 #typed
+0:12:23 Tab8 FinishNav92
+0:12:23 Tab8 PageLoad
+0:12:24 Tab8 StartNav93 #typed
+0:12:24 Tab8 FinishNav93
+0:12:24 Tab8 PageLoad
+0:12:32 Tab8 StartNav94 #typed
+0:12:32 Tab8 FinishNav94
+0:12:32 Tab8 PageLoad
+0:30:55 Tab8 StartNav95 #typed
+0:30:55 Tab8 FinishNav95
+0:30:55 Tab8 PageLoad
+42:45:04 Tab8 StartNav96 #typed
+42:45:04 Tab8 FinishNav96
+42:45:04 Tab8 PageLoad
+42:45:12 Microsoft.Shutdown.OnWindowClosing

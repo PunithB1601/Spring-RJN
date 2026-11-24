@@ -1,172 +1,80 @@
-72:16:06 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
-72:16:06 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
-72:16:06 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
-72:16:06 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
-72:16:06 Widget Closed: WebView2MinimalFrame
-72:16:06 Microsoft.UnloadController.TabStripEmpty
-72:16:06 Widget Closed: WebView2MinimalFrame
-72:16:06 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
-72:16:06 Microsoft.Shutdown.OnWindowClosing
-72:16:06 Microsoft.Shutdown.OnWindowClosing_DeleteScheduled
-72:16:06 Microsoft.Browser_Removed
-72:16:06 Widget Closed: WebView2MinimalFrame
-72:17:13 Tab74 StartNav574 #typed
-72:17:13 Tab74 FinishNav574
-72:17:13 Tab74 PageLoad
-72:17:16 Tab74 StartNav575 #typed
-72:17:16 Tab74 FinishNav575
-72:17:16 Tab74 PageLoad
-72:17:24 Tab74 StartNav576 #typed
-72:17:24 Tab74 FinishNav576
-72:17:24 Tab74 PageLoad
-72:17:25 Tab74 StartNav577 #typed
-72:17:25 Tab74 FinishNav577
-72:17:25 Tab74 PageLoad
-72:17:28 Tab74 StartNav578 #typed
-72:17:28 Tab74 FinishNav578
-72:17:28 Tab74 PageLoad
-72:17:29 Tab74 StartNav579 #typed
-72:17:29 Tab74 FinishNav579
-72:17:29 Tab74 PageLoad
-72:17:42 Microsoft.BrowserList.AddBrowser
-72:17:42 Browser75 Insert active Tab75 at 0
-72:17:42 Tab75 StartNav580 #auto_toplevel
-72:17:42 Tab75 StartNav581 #typed
-72:17:42 Tab75 FinishNav580
-72:17:42 Tab75 PageLoad
-72:17:42 Tab75 FinishNav581
-72:17:42 Tab75 PageLoad
-72:17:42 Tab75 StartNav582 #typed
-72:17:42 Tab75 FinishNav582
-72:17:42 Tab75 PageLoad
-72:17:43 Tab75 StartNav583 #typed
-72:17:43 Tab75 FinishNav583
-72:17:43 Tab75 PageLoad
-72:17:44 Tab75 StartNav584 #typed
-72:17:44 Tab75 FinishNav584
-72:17:44 Tab75 PageLoad
-72:17:45 Tab75 StartNav585 #typed
-72:17:45 Tab75 FinishNav585
-72:17:45 Tab75 PageLoad
-72:17:46 Tab75 StartNav586 #typed
-72:17:46 Tab75 FinishNav586
-72:17:46 Tab75 PageLoad
-72:17:47 Tab75 StartNav587 #typed
-72:17:47 Tab75 FinishNav587
-72:17:47 Tab75 PageLoad
-72:17:57 Tab75 StartNav588 #typed
-72:17:57 Tab75 FinishNav588
-72:17:57 Tab75 PageLoad
-72:17:59 Tab75 StartNav589 #typed
-72:17:59 Tab75 FinishNav589
-72:17:59 Tab75 PageLoad
-72:17:59 Tab75 StartNav590 #typed
-72:17:59 Tab75 FinishNav590
-72:17:59 Tab75 PageLoad
-72:18:01 Tab75 StartNav591 #typed
-72:18:01 Tab75 FinishNav591
-72:18:01 Tab75 PageLoad
-72:18:02 Tab75 StartNav592 #typed
-72:18:02 Tab75 FinishNav592
-72:18:02 Tab75 PageLoad
-72:18:03 Tab75 StartNav593 #typed
-72:18:03 Tab75 FinishNav593
-72:18:03 Tab75 PageLoad
-72:18:06 Microsoft.BrowserList.AddBrowser
-72:18:06 Browser76 Insert active Tab76 at 0
-72:18:06 Tab76 StartNav594 #auto_toplevel
-72:18:06 Tab76 StartNav595 #typed
-72:18:07 Tab76 FinishNav594
-72:18:07 Tab76 PageLoad
-72:18:07 Tab76 FinishNav595
-72:18:07 Tab76 PageLoad
-72:18:07 Tab76 StartNav596 #typed
-72:18:07 Tab76 FinishNav596
-72:18:07 Tab76 PageLoad
-72:18:08 Tab76 StartNav597 #typed
-72:18:08 Tab76 FinishNav597
-72:18:08 Tab76 PageLoad
-72:18:09 Tab76 StartNav598 #typed
-72:18:09 Tab76 FinishNav598
-72:18:09 Tab76 PageLoad
-72:18:09 Tab76 StartNav599 #typed
-72:18:09 Tab76 FinishNav599
-72:18:09 Tab76 PageLoad
-72:18:21 Tab74 StartNav600 #typed
-72:18:21 Tab74 FinishNav600
-72:18:21 Tab74 PageLoad
-72:18:30 Microsoft.BrowserList.AddBrowser
-72:18:30 Browser77 Insert active Tab77 at 0
-72:18:30 Tab77 StartNav601 #auto_toplevel
-72:18:30 Tab77 StartNav602 #typed
-72:18:31 Tab77 FinishNav601
-72:18:31 Tab77 PageLoad
-72:18:31 Tab77 FinishNav602
-72:18:31 Tab77 PageLoad
-72:18:31 Tab77 StartNav603 #typed
-72:18:31 Tab77 FinishNav603
-72:18:31 Tab77 PageLoad
-72:18:33 Tab77 StartNav604 #typed
-72:18:33 Tab77 FinishNav604
-72:18:33 Tab77 PageLoad
-72:18:44 Tab77 StartNav605 #typed
-72:18:44 Tab77 FinishNav605
-72:18:44 Tab77 PageLoad
-72:18:50 Tab77 StartNav606 #typed
-72:18:50 Tab77 FinishNav606
-72:18:50 Tab77 PageLoad
-72:18:51 Tab77 StartNav607 #typed
-72:18:51 Tab77 FinishNav607
-72:18:51 Tab77 PageLoad
-72:19:13 Tab74 StartNav608 #typed
-72:19:13 Tab74 FinishNav608
-72:19:13 Tab74 PageLoad
-72:19:15 Tab74 StartNav609 #typed
-72:19:15 Tab74 FinishNav609
-72:19:15 Tab74 PageLoad
-72:19:16 Tab74 StartNav610 #typed
-72:19:16 Tab74 FinishNav610
-72:19:16 Tab74 PageLoad
-72:19:17 Tab74 StartNav611 #typed
-72:19:17 Tab74 FinishNav611
-72:19:17 Tab74 PageLoad
-72:19:18 Tab74 StartNav612 #typed
-72:19:18 Tab74 FinishNav612
-72:19:18 Tab74 PageLoad
-72:19:19 Tab74 StartNav613 #typed
-72:19:19 Tab74 FinishNav613
-72:19:19 Tab74 PageLoad
-72:19:19 Tab74 StartNav614 #typed
-72:19:19 Tab74 FinishNav614
-72:19:19 Tab74 PageLoad
-72:19:20 Tab74 StartNav615 #typed
-72:19:20 Tab74 FinishNav615
-72:19:20 Tab74 PageLoad
-72:19:22 Tab74 StartNav616 #typed
-72:19:22 Tab74 FinishNav616
-72:19:22 Tab74 PageLoad
-72:19:29 Tab74 StartNav617 #typed
-72:19:29 Tab74 FinishNav617
-72:19:29 Tab74 PageLoad
-72:19:31 Tab74 StartNav618 #typed
-72:19:31 Tab74 FinishNav618
-72:19:31 Tab74 PageLoad
-72:19:33 Tab74 StartNav619 #typed
-72:19:33 Tab74 FinishNav619
-72:19:33 Tab74 PageLoad
-72:22:32 Microsoft.BrowserList.AddBrowser
-72:22:32 Browser78 Insert active Tab78 at 0
-72:22:32 Tab78 StartNav620 #auto_toplevel
-72:22:32 Tab78 FinishNav620
-72:22:32 Tab78 PageLoad
-72:22:32 Tab78 StartNav621 #typed
-72:22:32 Tab78 FinishNav621
-72:22:32 Tab78 PageLoad
-72:22:32 Tab74 StartNav622 #typed
-72:22:32 Tab74 FinishNav622 ERR_ABORTED
-72:22:32 Tab74 StartNav623 #typed
-72:22:32 Tab74 FinishNav623
-72:22:32 Tab74 PageLoad
-72:25:24 Tab78 StartNav624 #typed
-72:25:24 Tab78 FinishNav624
-72:25:24 Tab78 PageLoad
+24:09:57 Microsoft.Shutdown.TabStripModel.CloseTabs
+24:09:57 Microsoft.Shutdown.TabStripModel.CloseTabs_EdgeBeforeClosingAllTabs
+24:09:57 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl
+24:09:57 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_TabClosable
+24:09:57 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_ClosingAll
+24:09:57 Microsoft.Shutdown.TabStripModel.CloseWebContentses
+24:09:57 Microsoft.Shutdown.TabStripModel.CloseWebContentses_FastShutdown
+24:09:57 Tab48 FinishNav296 ERR_ABORTED
+24:09:57 Tab48 FinishNav297 ERR_ABORTED
+24:09:57 Tab48 RenderProcessGone
+24:09:57 Microsoft.UnloadController.ClearUnloadState
+24:09:57 Microsoft.Shutdown.TabStripModel.RunUnloadListenerBeforeClosing_false
+24:09:57 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_ClosedAll
+24:09:57 Microsoft.Shutdown.TabStripModel.SendDetachWebContentsNotifications
+24:09:57 Microsoft.UnloadController.ClearUnloadState
+24:09:57 Browser48 Close Tab48 at 0
+24:09:57 Microsoft.Shutdown.OnWindowClosing
+24:09:57 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+24:09:57 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+24:09:57 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
+24:09:57 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
+24:09:57 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+24:09:57 Widget Closed: WebView2MinimalFrame
+24:09:57 Microsoft.UnloadController.TabStripEmpty
+24:09:57 Widget Closed: WebView2MinimalFrame
+24:09:57 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+24:09:57 Microsoft.Shutdown.OnWindowClosing
+24:09:57 Microsoft.Shutdown.OnWindowClosing_DeleteScheduled
+24:09:57 Microsoft.Browser_Removed
+24:09:57 Widget Closed: WebView2MinimalFrame
+24:10:16 Microsoft.BrowserList.AddBrowser
+24:10:16 Browser49 Insert active Tab49 at 0
+24:10:16 Tab49 StartNav298 #auto_toplevel
+24:10:16 Tab49 StartNav299 #typed
+24:10:16 Tab49 FinishNav298
+24:10:16 Tab49 PageLoad
+24:10:16 Tab49 FinishNav299
+24:10:16 Tab49 PageLoad
+24:10:16 Tab49 StartNav300 #typed
+24:10:16 Tab49 FinishNav300
+24:10:16 Tab49 PageLoad
+24:10:16 Tab49 StartNav301 #typed
+24:10:16 Tab49 FinishNav301
+24:10:16 Tab49 PageLoad
+24:10:18 Tab49 StartNav302 #typed
+24:10:18 Tab49 FinishNav302
+24:10:18 Tab49 PageLoad
+24:10:45 Tab49 StartNav303 #typed
+24:10:45 Tab49 FinishNav303
+24:10:45 Tab49 PageLoad
+24:10:48 Tab49 StartNav304 #typed
+24:10:48 Tab49 FinishNav304
+24:10:48 Tab49 PageLoad
+24:11:10 Tab49 StartNav305 #typed
+24:11:10 Tab49 FinishNav305
+24:11:10 Tab49 PageLoad
+24:11:18 Tab49 StartNav306 #typed
+24:11:18 Tab49 FinishNav306
+24:11:18 Tab49 PageLoad
+24:11:24 Tab49 StartNav307 #typed
+24:11:24 Tab49 FinishNav307
+24:11:24 Tab49 PageLoad
+24:12:27 Tab49 StartNav308 #typed
+24:12:27 Tab49 FinishNav308
+24:12:27 Tab49 PageLoad
+24:12:27 Tab49 StartNav309 #typed
+24:12:27 Tab49 FinishNav309
+24:12:27 Tab49 PageLoad
+24:12:41 Tab49 StartNav310 #typed
+24:12:41 Tab49 FinishNav310
+24:12:41 Tab49 PageLoad
+24:12:41 Tab49 StartNav311 #typed
+24:12:41 Tab49 FinishNav311
+24:12:41 Tab49 PageLoad
+24:12:47 Tab49 StartNav312 #typed
+24:12:47 Tab49 FinishNav312
+24:12:47 Tab49 PageLoad
+24:12:52 Tab49 StartNav313 #typed
+24:12:52 Tab49 FinishNav313
+24:12:52 Tab49 PageLoad

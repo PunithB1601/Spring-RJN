@@ -17,6 +17,7 @@ import lombok.ToString;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
+@ToString
 @Table(name="student_table")
 public class Student {
 	
